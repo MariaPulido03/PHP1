@@ -1,6 +1,6 @@
 <html>
 <head>
-<title> Variables locales y globales </title>
+<title> Practica 2 </title>
 </head>
 <body>
 <?php
