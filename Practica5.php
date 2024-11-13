@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Switch y Default </title>
+<title>Practica 5</title>
 </head>
 <body>
 <?php
