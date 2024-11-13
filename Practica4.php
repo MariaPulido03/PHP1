@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>If y Else </title>
+<title> Practica 4 </title>
 </head>
 <body>
 <?php
