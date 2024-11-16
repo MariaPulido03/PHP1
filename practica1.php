@@ -16,5 +16,6 @@ $varnum2=6;
 $varres=$varnum1+$varnum2;
 echo"El resultado es $varnum1 y $varnum2=$varres";
 ?>
+<img src="Practica1.jpg" alt="Evidencia de practica 1" width="500">
 </body>
 </html>
