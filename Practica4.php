@@ -14,5 +14,6 @@ echo "el numero $numero es impar.<br><br>";
 }
 
 ?>
+<img src="Practica4.png" alt="Evidencia de practica 4" width="500">
 </body>
 </html>
