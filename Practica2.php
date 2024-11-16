@@ -19,5 +19,6 @@ echo "La variable a es $a <br>";
 echo "La variable b es $b <br>";
 
 ?>
+<img src="Practica2.png" alt="Evidencia de practica 2" width="500">
 </body>
 </html>
