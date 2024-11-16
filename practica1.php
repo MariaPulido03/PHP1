@@ -4,7 +4,7 @@
 </head>
 <body>
 <?php
-/*
+
 echo "Hola! Este es mi primer script en PHP <br>";
 // SALE ALGO EN PANTALLA
 # COMENTARIO
@@ -17,7 +17,7 @@ $varnum1 = 5;
 $varnum2 = 6;
 $varres = $varnum1 + $varnum2;
 echo "El resultado es $varnum1 + $varnum2 = $varres";
-*/
+
 ?>
 <img src="Practica1.png" alt="Evidencia de practica 1" width="500">
 </body>
