@@ -59,7 +59,7 @@
     $c .= $d;
     echo "<p>Concatenación y asignación (c .= d): \"$c\"</p>";
     ?>
-
+<img src="Practica3.png" alt="Evidencia de practica 3" width="500">
 </body>
 </html>
 
